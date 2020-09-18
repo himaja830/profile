@@ -58,6 +58,7 @@ export default function LoginCard() {
                 Email:
               </h3>
               <TextField
+                aria-label="Email"
                 variant="outlined"
                 id="standard-basic"
                 label="Email:"
@@ -68,6 +69,7 @@ export default function LoginCard() {
         </CardContent>
         <CardActions>
           <Button
+            aria-label="Profile page"
             variant="outlined"
             size="small"
             style={{ marginLeft: "auto", marginRight: "auto" }}

@@ -65,6 +65,7 @@ function Profile() {
           <a
             href="https://docs.google.com/document/d/11v37kPWDHTsm2Bg489NAQPUUfPvB_cr3_qrk-cm_6Hk/edit?usp=sharing"
             className="btn btn-primary"
+            aria-label="Resume"
           >
             Resume
           </a>
@@ -80,6 +81,7 @@ function Profile() {
             href="http://www.ravens.io/"
             className="btn btn-primary"
             target="_blank"
+            aria-label="ravenseye site"
           >
             ravenseye
           </a>
