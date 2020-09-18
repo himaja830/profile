@@ -14,9 +14,7 @@ export default function ProfilePage() {
       <AppBar position="static" color="transparent" elevation={0}>
         <Toolbar className="app-toolbar">
           <Typography>
-            <Link to="/" aria-label="Login page">
-              Login
-            </Link>
+            <Link to="/">Login</Link>
           </Typography>
         </Toolbar>
       </AppBar>
