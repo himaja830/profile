@@ -71,7 +71,7 @@ export default function LoginCard() {
             size="small"
             style={{ marginLeft: "auto", marginRight: "auto" }}
           >
-            <a href="/profile" className="btn btn-primary">
+            <a href="/Myprofile" className="btn btn-primary">
               Login
             </a>
           </Button>

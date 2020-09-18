@@ -5,8 +5,8 @@ import ProfilePage from "./profilePage";
 function App() {
   function getPage() {
     const route = window.location.pathname;
-    if (route === "/profile") return <ProfilePage />;
-    if (route === "/login") return <LoginCard />;
+    if (route === "/Myprofile") return <ProfilePage />;
+    if (route === "/Login") return <LoginCard />;
     return <LoginCard />;
   }
   return <div className="container-fluid">{getPage()}</div>;
