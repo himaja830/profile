@@ -1,5 +1,5 @@
 {
-  "name": "task",
+  "name": "profile",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,7 +26,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": " https://himaja830.github.io/Task/",
+  "homepage": " https://himaja830.github.io/profile",
   "devDependencies": {
     "gh-pages": "2.0.1"
   },
