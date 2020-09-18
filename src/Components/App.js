@@ -2,7 +2,8 @@ import React from "react";
 import LoginCard from "./loginPage";
 import ProfilePage from "./profilePage";
 import { HashRouter, Route, Switch } from "react-router-dom";
-
+//Created App Component and Routing using React-Router.
+//Used HashRouter Instead of Router/BrowseRouter to prevent deployment issues via github.
 function App() {
   return (
     <HashRouter basename="/">
