@@ -69,6 +69,7 @@ export default function LoginCard() {
         </CardContent>
         <CardActions>
           <Button
+            aria-label
             variant="outlined"
             size="small"
             style={{ marginLeft: "auto", marginRight: "auto" }}

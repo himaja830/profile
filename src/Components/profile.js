@@ -31,7 +31,7 @@ function Profile() {
       style={{
         textAlign: "center",
         borderColor: "black",
-        width: "50%",
+        width: "90%",
         margin: "auto",
         marginTop: "50px",
         marginBottom: "50px",
@@ -41,7 +41,7 @@ function Profile() {
       <CardContent>
         <div className={classes.title} color="textSecondary">
           <div>
-            <h3
+            <h2
               style={{
                 fontSize: "20px",
                 fontStyle: "oblique",
@@ -52,7 +52,7 @@ function Profile() {
               <div>Name: Himaja Sriramaneni</div>
               <div>Email: himaja.sriramaneni@gmail.com</div>
               <div>phone-No: 512-905-5117</div>
-            </h3>
+            </h2>
           </div>
         </div>
       </CardContent>
