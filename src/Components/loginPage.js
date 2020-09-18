@@ -6,6 +6,7 @@ import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import Button from "@material-ui/core/Button";
 import TextField from "@material-ui/core/TextField";
+import { Link } from "react-router-dom";
 
 const useStyles = makeStyles({
   root: {
@@ -71,9 +72,7 @@ export default function LoginCard() {
             size="small"
             style={{ marginLeft: "auto", marginRight: "auto" }}
           >
-            <a href="/Myprofile" className="btn btn-primary">
-              Login
-            </a>
+            <Link to="/myprofile">Login</Link>
           </Button>
         </CardActions>
       </Card>
