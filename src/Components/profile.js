@@ -63,7 +63,7 @@ function Profile() {
           style={{ marginLeft: "auto", marginRight: "auto" }}
         >
           <a
-            href="https://docs.google.com/document/d/11v37kPWDHTsm2Bg489NAQPUUfPvB_cr3_qrk-cm_6Hk/edit?usp=sharing"
+            href="https://docs.google.com/document/d/182cHMpDkcZalwYSC1dH7doO-BaNal_h8uHlIAsAarl8/edit?usp=sharing"
             className="btn btn-primary"
           >
             Resume
