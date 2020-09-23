@@ -1,4 +1,4 @@
-This Profile Application is created using This Profile was created using [Create React App](https://github.com/facebook/create-react-app).
+This Profile Application is created using  [Create React App](https://github.com/facebook/create-react-app).
 
 ## Technologies used:
 
